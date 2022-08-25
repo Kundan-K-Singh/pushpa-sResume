@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.25)  25 AUG 2022 08:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.25)  25 AUG 2022 09:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -719,14 +719,14 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(216.2411pt, 369.60115pt, 28.45274pt)
-* v-part:(T,H,B)=(2.84544pt, 786.43408pt, 5.69046pt)
+* v-part:(T,H,B)=(0.0pt, 794.96999pt, 0.0pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=369.60115pt
-* \textheight=786.43408pt
+* \textheight=794.96999pt
 * \oddsidemargin=143.97112pt
 * \evensidemargin=143.97112pt
-* \topmargin=-69.42455pt
+* \topmargin=-72.26999pt
 * \headheight=0.0pt
 * \headsep=0.0pt
 * \topskip=10.0pt
@@ -899,7 +899,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 180--186
 [1
 
 {C:/Users/10928/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./PushpaPic.
-jpg>] [2] (template.aux)
+jpg>] (template.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -907,9 +907,9 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21638 strings out of 478338
- 414909 string characters out of 2836700
- 698599 words of memory out of 3000000
+ 21637 strings out of 478338
+ 414903 string characters out of 2836700
+ 698591 words of memory out of 3000000
  39695 multiletter control sequences out of 15000+600000
  510764 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -920,9 +920,9 @@ sans/ClearSans-Italic.pfb><C:/Users/10928/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/intel/clearsans/ClearSans-Regular.pfb><C:/Users/10928/AppData/Local/Progra
 ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/10928/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on template.pdf (2 pages, 143203 bytes).
+Output written on template.pdf (1 page, 142734 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 500000)
+ 37 PDF objects out of 1000 (max. 8388607)
+ 2 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
